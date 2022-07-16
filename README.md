@@ -5,7 +5,7 @@ After completing numerous data-related courses/certifications, I have provided [
 
 1. 🔭 I’m currently working with [Zem Builders](https://zembuilders.com/) as a senior data analyst where I'm responsible for:
 > - Curating cross-departmental KPIs for building data [dashboards](https://app.powerbi.com/view?r=eyJrIjoiZDExZjk1OTgtYzE5Zi00OGMzLWE2NzUtZDM0NmNjNmI0MzA0IiwidCI6IjJiMWQyN2NmLWJhZDMtNDhmYi04OGE2LWQxYTUzOTNjNGVhNyIsImMiOjl9&embedImagePlaceholder=true) for the executive office 
-> - Building ML models for forecasting company's [sale](https://app.powerbi.com/view?r=eyJrIjoiOTNjOWIwYmUtZWU1MS00ODJmLWJjZGItM2I1NjMzMTk5MDY3IiwidCI6IjJiMWQyN2NmLWJhZDMtNDhmYi04OGE2LWQxYTUzOTNjNGVhNyIsImMiOjl9) forecasting
+> - Building ML models for company's [sale](https://app.powerbi.com/view?r=eyJrIjoiOTNjOWIwYmUtZWU1MS00ODJmLWJjZGItM2I1NjMzMTk5MDY3IiwidCI6IjJiMWQyN2NmLWJhZDMtNDhmYi04OGE2LWQxYTUzOTNjNGVhNyIsImMiOjl9) forecasting
 > - Building lead generator using web crawling
 > - Developing solutions to automate company's workflow
 > - Helping HR with data-driven monitoring and evaluation of sales team
