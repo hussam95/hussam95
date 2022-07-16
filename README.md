@@ -46,6 +46,5 @@ After completing numerous data-related courses/certifications, I have provided [
 > - :email: hussam.ulhaq@yahoo.com
 > - :iphone: +923425578486
 
-7. :page_facing_up: Resume:
-> - [hussam_ds_da_ml.pdf](https://github.com/hussam95/hussam95/files/9125784/hussam_ds_da_ml.pdf)
+> - :page_facing_up: Resume: [hussam_ds_da_ml.pdf](https://github.com/hussam95/hussam95/files/9125784/hussam_ds_da_ml.pdf)
 
