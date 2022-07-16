@@ -10,7 +10,7 @@ After completing numerous data-related courses/certifications, I have provided [
 > - Developing solutions to automate company's workflow
 > - Helping HR with data-driven monitoring and evaluation of sales team
 
-2. :boom: My tech-stack:
+2. :boom: Tech stack:
     * Python
         * Pandas
         * Numpy
