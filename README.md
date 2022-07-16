@@ -33,7 +33,7 @@ After completing numerous data-related courses/certifications, I have provided [
 > - SQL and NoSQL databases and their integration in data analysis and ML workflow
 > - MLOps using simple web apps
 
-4. 👯 I’m looking to learn more on:
+4. 👯 I’m looking to learn more of:
 > - Production-grade MLOps
 > - Web Development
 > - Cloud Techonlogies AWS, Azure, etc.
