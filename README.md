@@ -23,6 +23,8 @@ After completing numerous data-related courses/certifications, I have provided [
     * SQL
         * SQLite (Serverless)
         * MySQL (Server-based)
+    * NoSQL
+        * MongoDB
    
     * MS Power BI
     * Git (version control and collaboration)
