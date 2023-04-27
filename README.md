@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a mechanical engineering graduate who has been working with data using Python for last two years. The self motivated move of getting into the field of data has been an extremly fulfilling experience. Apart from getting an opportunity to solve interesting problems, this field has opened new avenues of learning — which are both challenging and rewarding.
+I am a mechanical engineer who has been working with data using Python for over two years. The self motivated move of getting into the field of data has been an extremly fulfilling experience. Apart from getting an opportunity to solve interesting problems, this field has opened new avenues of learning — which are both challenging and rewarding.
 
 After completing numerous data-related courses/certifications, I have provided [freelance](https://www.fiverr.com/hussamulhaq375) data analysis, data science, and machine learning [solutions](https://app.powerbi.com/view?r=eyJrIjoiODQwMjJhMDEtYTk1My00NTMzLWEyZTQtMDU1ZTNkOThiNmZkIiwidCI6IjJiMWQyN2NmLWJhZDMtNDhmYi04OGE2LWQxYTUzOTNjNGVhNyIsImMiOjl9&embedImagePlaceholder=true&pageName=ReportSection86c1ecb64f7037fb7f83) to numerous [clients](https://www.rtfisher.com/) across the globe. Apart from this, I have worked with [Sigma Square](https://www.upwork.com/ag/sigmasquare/) as a Junior ML Engineer.
 
@@ -18,8 +18,8 @@ After completing numerous data-related courses/certifications, I have provided [
         * TensorFlow
         * PyTorch
         * Matplotlib
-        * Streamlit
-        * OOP in Python
+        * Flask
+        * Django
     * SQL
         * SQLite (Serverless)
         * MySQL (Server-based)
@@ -33,7 +33,7 @@ After completing numerous data-related courses/certifications, I have provided [
 3. 🌱 I’m currently learning:
 > - Big data tools: Hadoop and Spark
 > - SQL and NoSQL databases and their integration in data analysis and ML workflow
-> - MLOps using simple web apps
+> - MLOps
 
 4. 👯 I’m looking to learn more of:
 > - Production-grade MLOps
